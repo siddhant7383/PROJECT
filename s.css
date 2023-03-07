@@ -14,7 +14,7 @@
     border: 1px solid black;
     display: flex;
     justify-content: center;
-    background-image: url(/Textures/ConcreteFloor.png);
+    background-image: url(ConcreteFloor.png);
     align-items: center;
 }
 #TABLE{
